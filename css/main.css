@@ -104,6 +104,7 @@ body {
 	align-items: center;
 	flex-direction: column;
 	align-content: stretch;
+	margin: 30px;
 }
 
 #work img{
@@ -111,6 +112,37 @@ body {
 	height: auto;
 }
 
+/*Work2*/
+
+#work2{
+	align-items: center;
+	flex-direction: row;
+	align-content: stretch;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin: 30px;
+}
+
+#work2 img{
+	max-width: 30%;
+	height: auto;
+}
+
+/*Work3*/
+
+#work3{
+	align-items: center;
+	flex-direction: row;
+	align-content: stretch;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	margin: 30px;
+}
+
+#work3 img{
+	max-width: 30%;
+	height: auto;
+}
 
 /*Footer*/
 
