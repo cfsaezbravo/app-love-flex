@@ -72,6 +72,7 @@ body {
     border-radius: 1px;
     font-weight: 500;
     text-transform: uppercase;
+    text-decoration: none;
     margin-top: 63px;
     display: inline-block;
     font-size: 14px;
@@ -96,6 +97,21 @@ body {
 	font-weight: bold;
 }
 
+/*Work*/
+
+#work{
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	align-content: stretch;
+}
+
+#work img{
+	max-width: 100%;
+	height: auto;
+}
+
+
 /*Footer*/
 
 footer{
@@ -105,3 +121,5 @@ footer{
   color: white;
   padding-top: 7px;
 }
+
+
